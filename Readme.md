@@ -1,6 +1,6 @@
 # 🧠 Employee Insights Dashboard — Power BI Project
 
-![Dashboard](image-2.png)
+![Dashboard](image-1.png)
 
 ### 📊 Overview
 
@@ -207,3 +207,4 @@ It enables stakeholders to:
 📍 Bangalore, India
 
 ---
+
