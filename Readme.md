@@ -151,13 +151,6 @@ All relationships were configured with **Cross Filter Direction: Both** to allow
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Add your dashboard image here — for example, the one you shared)*
-
-```
-![Employee Insights Dashboard](images/dashboard_preview.png)
-```
 
 ---
 
@@ -201,10 +194,11 @@ It enables stakeholders to:
 
 ### 👨‍💻 Author
 
-**Avula Bhumika**
+**AvB**
 
 *Data Analytics | Data Visualization*
 📍 Bangalore, India
 
 ---
+
 
